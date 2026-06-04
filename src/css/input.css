@@ -1,1 +1,25 @@
 @import "tailwindcss";
+
+@theme {
+    
+    /*Pontos de quebra*/
+    
+    --breakpoint-30: 7.5rem;
+    --breakpoint-290px: 290px;
+    --breakpoint-396px: 396px;
+    --breakpoitn-500px: 500px;
+    --breakpoitn-980px: 980px;
+
+    /*Tamanho de fonte*/
+    
+    --text-subtitle: 1.7rem;
+
+    /*Cores*/
+
+    --color-main-gray: #f0f2f5;
+    --color-main-blue: #1877f2;
+    --color-main-green: #42b72a;
+    --color-blue-hover: #166fe5;
+    --color-green-hover: #36a420;
+
+}
