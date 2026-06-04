@@ -2,13 +2,13 @@
 
 @theme {
     
-    /*Pontos de quebra*/
+    /*Tamanhoa*/
     
-    --breakpoint-30: 7.5rem;
-    --breakpoint-290px: 290px;
-    --breakpoint-396px: 396px;
-    --breakpoitn-500px: 500px;
-    --breakpoitn-980px: 980px;
+    --spacing-30: 7.5rem;
+    --spacing-290px: 290px;
+    --spacing-396px: 396px;
+    --spacing-500px: 500px;
+    --spacing-980px: 980px;
 
     /*Tamanho de fonte*/
     
